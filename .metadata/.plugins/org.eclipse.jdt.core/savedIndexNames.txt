@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\ACER\eclipse-workspace\C1908I1_Exam_JavaSwing\.metadata\.plugins\org.eclipse.jdt.core
+2483359565.index
